@@ -1,8 +1,15 @@
 <resources>
-    <string name="app_name">Beilin</string>
+    <string name="app_name">北林北林</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="cheng_tao">ChengTao</string>
+    <string name="cheng_tao_email">chengtaolearn@163.com</string>
+    <string name="camera">照相</string>
+    <string name="gallery">相册</string>
+    <string name="setting">设置</string>
+    <string name="communication">社交</string>
+    <string name="share">分享</string>
 </resources>
